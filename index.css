@@ -44,5 +44,52 @@
 .banner-dis{
               margin-top: 28px;
 }
+                  /*   2nd part start */
 
- 
+
+                  main{ 
+                  
+                        margin: 0px auto;
+                        text-align: center;
+                        background-color: lightblue;
+                        width: 80%;
+                  }
+                  .box1{display: flex;
+                    justify-content: space-around;   
+                    align-items: center;
+                    gap:20px;
+
+                    /* border: 1px solid gray; */
+                    margin:0px 97px 0px 97px;
+                    box-shadow: 4px 4px 8px gray;
+
+                       }
+                    
+                       .box1image{margin:51px 60px  60px 0;
+                      }
+                  
+             
+                      .box1-title{margin: 58px 0px 58px 48px;
+                                 
+                       }
+                       .box2container{
+                        display: flex;
+                        justify-content: flex-start;   
+                        align-items: center;
+                        gap:20px;
+    
+                        /* border: 1px solid gray; */
+                        /* margin:50px 130px 48px 48px; */
+                        box-shadow: 4px 4px 8px gray;
+                          text-align: justify;
+                       }
+                       .box2image{margin:48px 10px 48px 250px;
+                       }
+                   
+              
+                       .box2-title{margin: 58px 0px 58px 48px;
+                                  
+                        }
+                   
+              
+                     
