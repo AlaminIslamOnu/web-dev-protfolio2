@@ -1,1 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Press+Start+2P&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+/* font-family: "Azeret Mono", serif; */
 
+
+*{margin: 0;
+  padding: 0;}
+
+  .containerone{
+    display:flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin:50px 174px 0px 150px;
+    }
+
+.btn{padding: 20px;
+         background-color: white;
+         border-radius: 8px;
+         font-family: "Azeret Mono", serif;
+         border-color:gray;}
+
+       
+.resume-name{font-size: 28px;
+                 color: #0D1321;
+                 font-weight: bold;} 
+                 
+                /*  2nd task */
+.containertwo{height: 70vh;
+              width: 100%;
+              text-align: center;
+              background-color: gray;
+              background-image: url('./assets/Hero-bg.png');}    
+              
+.btntwodesign {  height: 65px;
+                 width: 244px;
+                  background-color: #0D1321;
+                  color: white;
+                 padding: 20px;
+                  font-size: 20px;
+                    border-radius: 8px;
+                    margin: 32px 0px 45px 0px;
+              }   
+.imagetwo{padding-top: 30px;}   
+.banner-title {margin-top: 30px;} 
+.banner-dis{
+              margin-top: 28px;
+}
+
+ 
